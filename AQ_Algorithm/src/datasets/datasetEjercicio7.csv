@@ -1,0 +1,6 @@
+Pais;Especie;Alimentacion;Altura;Situacion;Clase
+Africa;Mamifero;Carnivoro;Alto;Peligro;+
+Africa;Reptil;Herbivoro;Bajo;Normal;-
+Africa;Reptil;Herbivoro;Alto;Peligro;+
+Europa;Mamifero;Herbivoro;Bajo;Peligro;-
+Africa;Mamifero;Carnivoro;Normal;Peligro;+

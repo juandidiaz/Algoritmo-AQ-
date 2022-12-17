@@ -1,0 +1,26 @@
+----PARA AÑADIR LOS DATASETS---- 
+1) Entre en la carpeta src
+2)Entre en la carpeta datasets
+3)Arrastre su dataset a esta carpeta
+
+----PARA EJECUTAR EL PROGRAMA----
+1) Entre en la carpeta src
+2) Desde la carpeta src abra una terminal que se encuentre en la ruta de esa misma carpeta
+3)Escriba en la terminal: java -jar "AQ_Algorithm.jar"
+5) Se ejecutara el programa, lo unico que debe hacer ahora es escribir el nombre del dataset
+que quiere usar y posteriormente la clase que quiere que se considere positiva. No es necesario indicar la extensión csv, basta con poner el nombre. 
+
+Como ejemplo de datasets vienen todos los ejercicios subidos en Moodle.
+Se llaman de la siguiente
+forma y las clases correspondientes son:
+
+1-datasetEjercicio1 (clases: positive/negative)
+2-datasetEjercicio2 (clases: economy/sports)
+3-datasetEjercicio3YTransparencias (clases: +/-)
+4-datasetEjercicio4 (clases YES/NO)
+5-datasetEjercicio5 (clases: sick/ok)
+6-datasetEjercicio6 (clases: happy/sad)
+7-datasetEjercicio7 (clases: +/-)
+8-datasetEjercicio8 (clases: 0/1)
+9-datasetDiapositivas (clases: Normal/Cancerigena)
+
